@@ -1,7 +1,14 @@
 /*
-    Lab 6C: Slide 15-Puzzle
-    Task: Implement CopyCell and FillCell in Assembly.
+ * File:			puzzle.s
+ *
+ * Author:			Isabella Guzman
+ *
+ * Last updated:	5/5/2026
+ *
+ * Description:		This file contains functions to implement equivalent replacements in assembly language for the following two functions found in the C main program: CopyCell, which copies all the pixels of one cell to another, and
+FillCell, which fills a cell with white pixels.
 */
+     
 
             .syntax     unified
             .cpu        cortex-m4
